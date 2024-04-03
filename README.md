@@ -1,15 +1,17 @@
-# Hey folks👋, I'm A1J-AY!
+# <p align="center"><sup>Hey folks👋, I'm Ajay!</sup>   <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/f255c751bada0dfb91708475958b46ef.gif" alt="Cybersecurity GIF" width="50" height="50"></p>
 
-**A cybersecurity enthusiast 🛡️, ethical hacker 🔒, Web-Application Pentester 🌐, and Python lover 🐍**
+
+<p align="center" style="display: flex; align-items: center;"Hey folks👋, I'm Ajay!   <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/f255c751bada0dfb91708475958b46ef.gif" alt="Cybersecurity GIF" width="50" height="50"></p>
+
+<p align="center"><strong>A cybersecurity enthusiast 🛡️, ethical hacker 🔒, Web-Application Pentester 🌐, and Python lover 🐍</strong></p>
 
 ## About Me 🌐
 
-I am a self-taught cybersecurity enthusiast, I'm all about keeping things secure 💻 and enjoy diving into penetration testing. Feel free to say hi and chat about all things cybersecurity!
+I am a self-taught cybersecurity enthusiast, I'm all about keeping things secure 💻 and enjoy diving into penetration testing. Feel free to say hi and chat about all things cybersecurity.
 
 - 🧠 Passionate about Cybersecurity
 - 🎯 Focused
 - 🔍 Proficient in **OWASP Top 10 Vulnerabilities**
-- 𝕏 [A1J-AY](https://x.com/A1J-AY)
 
 ## Stats & Activity 📈
 
