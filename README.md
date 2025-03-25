@@ -3,15 +3,15 @@
 
 <p align="center" style="display: flex; align-items: center;"Hey folks👋, I'm Ajay!   <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/f255c751bada0dfb91708475958b46ef.gif" alt="Cybersecurity GIF" width="50" height="50"></p>
 
-<p align="center"><strong>A cybersecurity enthusiast 🛡️, ethical hacker 🔒, Web-Application Pentester 🌐, and Python lover 🐍</strong></p>
+<p align="center"><strong>🔍 Cyber-Security Researcher | 🐞 Bug-Bounty Hunter | 🌐 Web-Application Pentester</strong></p>
 
 ## About Me 🌐
 
-I am a self-taught cybersecurity enthusiast, I'm all about keeping things secure 💻 and enjoy diving into penetration testing. Feel free to say hi and chat about all things cybersecurity.
+I am a passionate cybersecurity professional specializing in ethical hacking and penetration testing. With a strong foundation in identifying and mitigating security vulnerabilities, I am eager to contribute to innovative security solutions. Let's connect to discuss how I can help enhance your organization's security posture!
 
-- 🧠 Passionate about Cybersecurity
-- 🎯 Focused
-- 🔍 Proficient in **OWASP Top 10 Vulnerabilities**
+- 🧠 Passionate about ethical hacking and penetration testing
+- 🎯 Committed to identifying and mitigating security vulnerabilities
+- 🔍 Skilled in developing innovative security solutions
 
 ## My Projects 🛠️
 
