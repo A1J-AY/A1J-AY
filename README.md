@@ -13,6 +13,11 @@ I am a self-taught cybersecurity enthusiast, I'm all about keeping things secure
 - 🎯 Focused
 - 🔍 Proficient in **OWASP Top 10 Vulnerabilities**
 
+## My Projects 🛠️
+
+- [**SubD0m_Radar**](https://github.com/A1J-AY/SubD0m_Radar): A tool for enumerating subdomains using Cert.sh, VirusTotal, and Shodan APIs.
+
+
 ## Stats & Activity 📈
 
 <table>
