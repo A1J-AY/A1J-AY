@@ -16,6 +16,7 @@ I am a passionate cybersecurity professional specializing in ethical hacking and
 ## My Projects 🛠️
 
 - [**SubD0m_Radar**](https://github.com/A1J-AY/SubD0m_Radar): A tool for enumerating subdomains using Cert.sh, VirusTotal, and Shodan APIs.
+- [**NetVulnScan**](https://github.com/A1J-AY/NetVulnScan):  A tool for network vulnerability scanner written in Python using the Scapy library. 
 
 
 ## Stats & Activity 📈
