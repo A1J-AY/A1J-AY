@@ -1,4 +1,4 @@
-# <p align="center"><sup>Hey folks👋, I'm Ajay!</sup>   <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/f255c751bada0dfb91708475958b46ef.gif" alt="Cybersecurity GIF" width="50" height="50"></p>
+# <p align="center"><sup>Hey folks, I'm Ajay!</sup>   <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/f255c751bada0dfb91708475958b46ef.gif" alt="Cybersecurity GIF" width="50" height="50"></p>
 
 
 <p align="center" style="display: flex; align-items: center;"Hey folks👋, I'm Ajay!   <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/f255c751bada0dfb91708475958b46ef.gif" alt="Cybersecurity GIF" width="50" height="50"></p>
